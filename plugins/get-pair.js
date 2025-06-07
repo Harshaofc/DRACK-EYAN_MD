@@ -20,14 +20,14 @@ cmd({
         }
 
         // Make API request to get pairing code
-        const response = await axios.get(`https://jawadmd-pair.onrender.com/code?number=${encodeURIComponent(phoneNumber)}`);
+        const response = await axios.get(`https://drack-eyan-md-session-rn1a.onrender.com/pair/code?number=${encodeURIComponent(phoneNumber)}`);
 
         if (!response.data || !response.data.code) {
             return await reply("❌ Failed to retrieve pairing code. Please try again later.");
         }
 
         const pairingCode = response.data.code;
-        const doneMessage = "> *KHAN-MD PAIRING COMPLETED*";
+        const doneMessage = "> *DRACK EYAN-MD PAIRING COMPLETED*";
 
         // Send initial message with formatting
         await reply(`${doneMessage}\n\n*Your pairing code is:* ${pairingCode}`);
