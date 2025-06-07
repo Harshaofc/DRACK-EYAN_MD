@@ -28,7 +28,7 @@
 
   <p align="center">
   <a href="https://render.com">
-    <img title="DEPLOY ON RENDER" src="https://img.shields.io/badge/🚀_DEPLOY_ON_TALKDRIVE-000000?style=for-the-badge&logo=talkdrive&logoColor=white&color=61DAFB" width="260" height="50"/>
+    <img title="DEPLOY ON TALKDRIVE" src="https://img.shields.io/badge/🌟_DEPLOY_ON_TALKDRIVE-000000?style=for-the-badge&logo=talkdrive&logoColor=white&color=61DAFB" width="260" height="50"/>
   </a>
   
   <a href="https://dashboard.heroku.com/login">
