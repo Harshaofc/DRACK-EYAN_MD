@@ -8,7 +8,7 @@ cmd({
     alias: ["status", "online", "a"],
     desc: "Check bot is alive or not",
     category: "main",
-    react: "⚡",
+    react: "👋",
     filename: __filename
 },
 async (conn, mek, m, { from, sender, reply }) => {
