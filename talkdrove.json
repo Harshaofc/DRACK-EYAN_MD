@@ -1,0 +1,38 @@
+{
+  "bot-name": "DRACK-EYAN-MD",
+  "description": "a whatsapp bot created by harsha",
+  "logo": "https://i.ibb.co/FLbwTSQr/jpg.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://drack-eyan-md-session-rn1a.onrender.com/",
+  "owner-verification": "princemayel99@gmail.com",
+  
+  "env": {
+    "SESSION_ID": {
+      "description": "Must Start with 'D EYAN-MD~'",
+      "required": true,
+      "value": ""
+    },  
+    "MODE": {
+      "description": "Set private/public/inbox/groups",
+      "required": false,
+      "value": "private"
+    },
+    "OWNER_NAME": {
+      "description": "Put Owner Name Here",
+      "required": true,
+      "value": "Harsha"
+    },
+    "OWNER_NUMBER": {
+      "description": "Put only one Owner Number Here",
+      "required": true,
+      "value": "94727786×××"
+    },
+    
+   
+    "PREFIX": {
+      "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
+      "required": true,
+      "value": "."
+    }
+  }
+}
