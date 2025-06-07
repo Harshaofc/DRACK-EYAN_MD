@@ -12,7 +12,7 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY DRACK EYAN-MD 🤍*",
 WELCOME: process.env.WELCOME || "faise",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
-ANTI_LINK: process.env.ANTI_LINK || "true",
+ANTI_LINK: process.env.ANTI_LINK || "faise",
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/FLbwTSQr/jpg.jpg",
 PREFIX: process.env.PREFIX || ".", // add your prifix for bot
