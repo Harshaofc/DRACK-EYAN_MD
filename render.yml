@@ -1,0 +1,13 @@
+yaml
+services:
+  - type: web
+    name: DRACK-EYAN-MD
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: NODE_VERSION
+        value: 18
+      - key: BOT_TOKEN
+        value: https://drack-eyan-md-4.onrender.com
