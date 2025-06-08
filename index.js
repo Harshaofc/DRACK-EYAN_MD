@@ -44,7 +44,7 @@ const {
   const path = require('path')
   const prefix = config.PREFIX
   
-  const ownerNumber = ['923427582273']
+  const ownerNumber = ['94727786760']
   
   const tempDir = path.join(os.tmpdir(), 'cache-temp')
   if (!fs.existsSync(tempDir)) {
@@ -113,21 +113,21 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `╭─〔 *🤖 KHAN-MD BOT* 〕  
+  let up = `╭─〔 *🤖 D EYAN-MD BOT* 〕  
 ├─▸ *Ultra Super Fast Powerfull ⚠️*  
-│     *World Best BOT KHAN-MD* 
+│     *World Best BOT D EYAN-MD* 
 ╰─➤ *Your Smart WhatsApp Bot is Ready To use 🍁!*  
 
-- *🖤 Thank You for Choosing KHAN-MD!* 
+- *🖤 Thank You for Choosing DRACK EYAN-MD!* 
 
 ╭──〔 🔗 *Information* 〕  
 ├─ 🧩 *Prefix:* = ${prefix}
 ├─ 📢 *Join Channel:*  
-│    https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j  
+│    https://whatsapp.com/channel/0029Vb6RLQoAu3aUFopvKP46 
 ├─ 🌟 *Star the Repo:*  
-│    https://github.com/JawadYT36/KHAN-MD  
-╰─🚀 *Powered by JawadTechX*`;
-    conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/7zfdcq.jpg` }, caption: up })
+│    https://github.com/Harshaofc/DRACK-EYAN-MD  
+╰─> © ᴅʀᴀᴄᴋ ᴇʏᴀɴ ᴍᴅ 🌀*`;
+    conn.sendMessage(conn.user.id, { image: { url: `https://i.ibb.co/FLbwTSQr/jpg.jpg` }, caption: up })
   }
   })
   conn.ev.on('creds.update', saveCreds)
@@ -783,7 +783,7 @@ if (isBanned) return; // Ignore banned users completely
   }
   
   app.get("/", (req, res) => {
-  res.send("KHAN MD STARTED ✅");
+  res.send("DRACK EYAN MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
