@@ -22,7 +22,7 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="https://drack-eyan-md-session-rn1a.onrender.com/">
+  <a href="[https://drack-eyan-md-session-rn1a.onrender.com/](https://drack-eyan-md-session-ed94.onrender.com/pair)">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
 
@@ -32,7 +32,7 @@
   </a>
   
   <a href="https://dashboard.heroku.com/login">
-    <img title="DEPLOY QUANTUM BOT" src="https://img.shields.io/badge/🦄_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
+    <img title="DEPLOY BOT" src="https://img.shields.io/badge/🦄_DEPLOY_ON_HEROKU-000000?style=for-the-badge&logo=heroku&logoColor=white&color=FF00FF" width="260" height="50"/>
   </a>
 </p>
 
