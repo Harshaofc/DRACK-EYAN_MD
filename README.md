@@ -22,7 +22,7 @@
 
 <!-- Action Buttons -->
 <p align="center">
-  <a href="[https://drack-eyan-md-session-rn1a.onrender.com/](https://drack-eyan-md-session-ed94.onrender.com/pair)">
+  <a href="[[https://drack-eyan-md-session-rn1a.onrender.com/](https://drack-eyan-md-session-ed94.onrender.com/pair)](https://drack-eyan-md-session-ed94.onrender.com/pair)">
     <img title="GET SESSION OPT 1" src="https://img.shields.io/badge/🔑_GET_SESSION-000000?style=for-the-badge&logo=quantum&logoColor=white&color=skyblue" width="260" height="50"/>
   </a>
 
